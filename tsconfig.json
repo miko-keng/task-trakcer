@@ -12,6 +12,9 @@
   },
   "exclude": [
     "node_modules",
-    "frontend"
+    "frontend",
+    "src/app",
+    "src/main.ts",
+    "src/test.ts"
   ]
 }
